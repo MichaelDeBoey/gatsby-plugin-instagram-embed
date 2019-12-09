@@ -11,6 +11,7 @@
 [![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 [![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
 
 ## Table of Contents
@@ -24,6 +25,7 @@
 - [Issues](#issues)
   - [🐛 Bugs](#-bugs)
   - [💡 Feature Requests](#-feature-requests)
+- [Contributors](#contributors-)
 - [LICENSE](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -100,6 +102,27 @@ Please file an issue to suggest new features. Vote on feature requests by adding
 a 👍. This helps maintainers prioritize what to work on.
 
 [**See Feature Requests**][requests]
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key][emojis]):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://learnwithjason.dev"><img src="https://avatars2.githubusercontent.com/u/163561?v=4" width="100px;" alt=""/><br /><sub><b>Jason Lengstorf</b></sub></a><br /><a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Code">💻</a> <a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Documentation">📖</a> <a href="#ideas-jlengstorf" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-MichaelDeBoey" title="Tools">🔧</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors][all-contributors] specification.
+Contributions of any kind welcome!
 
 ## LICENSE
 

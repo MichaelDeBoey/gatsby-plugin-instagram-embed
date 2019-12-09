@@ -19,9 +19,13 @@
     "url": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed/issues"
   },
   "homepage": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed#readme",
-  "scripts": {},
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
   "dependencies": {},
   "devDependencies": {
+    "all-contributors-cli": "^6.11.2",
     "react": "^16.12.0"
   },
   "peerDependencies": {
