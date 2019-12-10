@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-instagram-embed",
   "description": "Adds the Instagram embed script to a Gatsby site.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "gatsby-browser.js",
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "repository": {
