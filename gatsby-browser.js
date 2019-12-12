@@ -1,4 +1,4 @@
-exports.onRouteUpdate = function triggerInstagramLoad() {
+exports.onRouteUpdate = () => {
   // Wait to ensure page is rendered first.
   setTimeout(() => {
     if (
