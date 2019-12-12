@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed#readme",
   "scripts": {
+    "build": "babel src --out-dir .",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
     "lint": "kcd-scripts lint"
@@ -27,6 +28,7 @@
   "dependencies": {},
   "devDependencies": {
     "all-contributors-cli": "^6.11.2",
+    "babel-preset-gatsby-package": "^0.2.14",
     "kcd-scripts": "^1.12.1",
     "react": "^16.12.0"
   },
