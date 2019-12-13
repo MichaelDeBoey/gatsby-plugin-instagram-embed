@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-instagram-embed",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-released",
   "description": "Gatsby plugin to add Instagram's embed script.",
   "main": "./gatsby-browser.js",
   "keywords": [
@@ -24,16 +24,14 @@
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
     "lint": "kcd-scripts lint",
-    "validate": "kcd-scripts validate",
-    "semantic-release": "semantic-release"
+    "validate": "kcd-scripts validate"
   },
   "dependencies": {},
   "devDependencies": {
     "all-contributors-cli": "^6.11.2",
     "babel-preset-gatsby-package": "^0.2.14",
     "kcd-scripts": "^1.12.1",
-    "react": "^16.12.0",
-    "semantic-release": "^15.13.31"
+    "react": "^16.12.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
