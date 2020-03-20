@@ -33,16 +33,16 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "all-contributors-cli": "^6.11.2",
-    "babel-preset-gatsby-package": "^0.2.14",
-    "kcd-scripts": "^1.12.1",
-    "react": "^16.12.0"
+    "all-contributors-cli": "^6.14.0",
+    "babel-preset-gatsby-package": "^0.3.0",
+    "kcd-scripts": "^5.4.0",
+    "react": "^16.13.1"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^2.20.0"
   },
   "engines": {
-    "node": ">=8",
+    "node": ">=10.13.0",
     "npm": ">=6",
     "yarn": ">=1"
   }
