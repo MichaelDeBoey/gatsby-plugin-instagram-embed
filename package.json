@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-instagram-embed",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "Gatsby plugin to add Instagram's embed script.",
   "main": "./gatsby-browser.js",
   "keywords": [
