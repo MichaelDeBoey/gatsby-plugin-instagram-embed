@@ -1,5 +1,1 @@
-module.exports = {
-  hooks: {
-    'pre-commit': 'kcd-scripts pre-commit',
-  },
-};
+module.exports = require('kcd-scripts/husky');
