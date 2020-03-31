@@ -6,13 +6,18 @@
 
 ---
 
+<!-- prettier-ignore-start -->
 [![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
+[![version][version-badge]][package]
+[![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-[![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![PRs Welcome][prs-badge]][prs]
+[![Code of Conduct][coc-badge]][coc]
+<!-- prettier-ignore-end -->
 
 ## Table of Contents
 
@@ -45,20 +50,21 @@ or
 yarn add gatsby-plugin-instagram-embed
 ```
 
-This library has `peerDependencies` listings for [`gatsby`][gatsby].
+This library has a required `peerDependencies` listing for [`gatsby`][gatsby].
 
 ## Usage
 
 ```js
 // In your gatsby-config.js
 
-{
+module.exports = {
   // Find the 'plugins' array
   plugins: [
-    'gatsby-plugin-instagram-embed',
-    // Other plugins here
-  ];
-}
+    `gatsby-plugin-instagram-embed`,
+
+    // Other plugins here...
+  ],
+};
 ```
 
 Then, anywhere on your site, you can add an Instagram embed code like this one:
@@ -269,7 +275,7 @@ MIT
 [all-contributors]: https://github.com/all-contributors/all-contributors
 [bugs]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+Bug%22+sort%3Acreated-desc
 [requests]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement
-[good-first-issue]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement+label%3A%22good+first+issue%22
+[good-first-issue]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A%22good+first+issue%22
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [gatsby-plugin-twitter]: https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter

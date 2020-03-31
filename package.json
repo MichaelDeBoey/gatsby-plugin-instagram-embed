@@ -26,16 +26,14 @@
   ],
   "scripts": {
     "build": "babel src --out-dir .",
-    "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate",
     "lint": "kcd-scripts lint",
+    "setup": "npm install && npm run validate -s",
     "validate": "kcd-scripts validate"
   },
   "dependencies": {},
   "devDependencies": {
-    "all-contributors-cli": "^6.14.0",
     "babel-preset-gatsby-package": "^0.3.1",
-    "kcd-scripts": "^5.6.0",
+    "kcd-scripts": "^5.6.1",
     "react": "^16.13.1"
   },
   "peerDependencies": {
