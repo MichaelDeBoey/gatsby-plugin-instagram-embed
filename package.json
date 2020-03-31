@@ -25,14 +25,15 @@
     "index.js"
   ],
   "scripts": {
-    "build": "babel src --out-dir .",
+    "build": "kcd-scripts build --out-dir .",
     "lint": "kcd-scripts lint",
     "setup": "npm install && npm run validate -s",
     "validate": "kcd-scripts validate"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@babel/runtime": "^7.9.2"
+  },
   "devDependencies": {
-    "babel-preset-gatsby-package": "^0.3.1",
     "kcd-scripts": "^5.6.1",
     "react": "^16.13.1"
   },
