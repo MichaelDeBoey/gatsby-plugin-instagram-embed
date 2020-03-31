@@ -25,7 +25,7 @@
 - [Issues](#issues)
   - [🐛 Bugs](#-bugs)
   - [💡 Feature Requests](#-feature-requests)
-- [Contributors](#contributors-)
+- [Contributors ✨](#contributors-)
 - [LICENSE](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -231,12 +231,14 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://learnwithjason.dev"><img src="https://avatars2.githubusercontent.com/u/163561?v=4" width="100px;" alt=""/><br /><sub><b>Jason Lengstorf</b></sub></a><br /><a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Code">💻</a> <a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Documentation">📖</a> <a href="#ideas-jlengstorf" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Code">💻</a> <a href="https://github.com/jlengstorf/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-MichaelDeBoey" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://learnwithjason.dev"><img src="https://avatars2.githubusercontent.com/u/163561?v=4" width="100px;" alt=""/><br /><sub><b>Jason Lengstorf</b></sub></a><br /><a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Code">💻</a> <a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Documentation">📖</a> <a href="#ideas-jlengstorf" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Code">💻</a> <a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-MichaelDeBoey" title="Tools">🔧</a></td>
   </tr>
 </table>
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification.
@@ -249,25 +251,25 @@ MIT
 <!-- prettier-ignore-start -->
 [npm]: https://npmjs.com
 [node]: https://nodejs.org
-[build-badge]: https://img.shields.io/travis/jlengstorf/gatsby-plugin-instagram-embed.svg?style=flat-square
-[build]: https://travis-ci.org/jlengstorf/gatsby-plugin-instagram-embed
-[coverage-badge]: https://img.shields.io/codecov/c/github/jlengstorf/gatsby-plugin-instagram-embed.svg?style=flat-square
-[coverage]: https://codecov.io/github/jlengstorf/gatsby-plugin-instagram-embed
+[build-badge]: https://img.shields.io/travis/com/MichaelDeBOey/gatsby-plugin-instagram-embed.svg?style=flat-square
+[build]: https://travis-ci.com/MichaelDeBoey/gatsby-plugin-instagram-embed
+[coverage-badge]: https://img.shields.io/codecov/c/github/MichaelDeBoey/gatsby-plugin-instagram-embed.svg?style=flat-square
+[coverage]: https://codecov.io/github/MichaelDeBoey/gatsby-plugin-instagram-embed
 [version-badge]: https://img.shields.io/npm/v/gatsby-plugin-instagram-embed.svg?style=flat-square
 [package]: https://www.npmjs.com/package/gatsby-plugin-instagram-embed
 [downloads-badge]: https://img.shields.io/npm/dm/gatsby-plugin-instagram-embed.svg?style=flat-square
 [npmtrends]: http://www.npmtrends.com/gatsby-plugin-instagram-embed
 [license-badge]: https://img.shields.io/npm/l/gatsby-plugin-instagram-embed.svg?style=flat-square
-[license]: https://github.com/jlengstorf/gatsby-plugin-instagram-embed/blob/master/LICENSE
+[license]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/jlengstorf/gatsby-plugin-instagram-embed/blob/master/other/CODE_OF_CONDUCT.md
+[coc]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/blob/master/other/CODE_OF_CONDUCT.md
 [emojis]: https://allcontributors.org/docs/en/emoji-key
 [all-contributors]: https://github.com/all-contributors/all-contributors
-[bugs]: https://github.com/jlengstorf/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+Bug%22+sort%3Acreated-desc
-[requests]: https://github.com/jlengstorf/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement
-[good-first-issue]: https://github.com/jlengstorf/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement+label%3A%22good+first+issue%22
+[bugs]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+Bug%22+sort%3Acreated-desc
+[requests]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement
+[good-first-issue]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3Aenhancement+label%3A%22good+first+issue%22
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [gatsby-plugin-twitter]: https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter

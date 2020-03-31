@@ -9,16 +9,16 @@
     "embed",
     "instagram"
   ],
-  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "author": "Michaël De Boey <info@michaeldeboey.be> (https://michaeldeboey.be)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed"
+    "url": "https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed"
   },
   "bugs": {
-    "url": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed/issues"
+    "url": "https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/issues"
   },
-  "homepage": "https://github.com/jlengstorf/gatsby-plugin-instagram-embed#readme",
+  "homepage": "https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed#readme",
   "files": [
     "gatsby-browser.js",
     "gatsby-ssr.js",
