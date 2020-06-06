@@ -1,4 +1,6 @@
 <div align="center">
+<img width="450" height="80" src="/art/logo.png" alt="gatsby-plugin-instagram-embed logo" />
+
 <h1>gatsby-plugin-instagram-embed</h1>
 
 <p>Gatsby plugin to add Instagram's embed script.</p>
@@ -239,6 +241,7 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
   <tr>
     <td align="center"><a href="https://learnwithjason.dev"><img src="https://avatars2.githubusercontent.com/u/163561?v=4" width="100px;" alt=""/><br /><sub><b>Jason Lengstorf</b></sub></a><br /><a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Code">💻</a> <a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=jlengstorf" title="Documentation">📖</a> <a href="#ideas-jlengstorf" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Code">💻</a> <a href="https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-MichaelDeBoey" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/caneco"><img src="https://avatars0.githubusercontent.com/u/502041?v=4" width="100px;" alt=""/><br /><sub><b>Caneco</b></sub></a><br /><a href="#design-caneco" title="Design">🎨</a></td>
   </tr>
 </table>
 
