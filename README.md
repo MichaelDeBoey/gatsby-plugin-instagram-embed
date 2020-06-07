@@ -1,4 +1,6 @@
 <div align="center">
+<img width="450" height="80" src="/art/logo.png" alt="gatsby-plugin-instagram-embed logo" />
+
 <h1>gatsby-plugin-instagram-embed</h1>
 
 <p>Gatsby plugin to add Instagram's embed script.</p>
