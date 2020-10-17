@@ -27,7 +27,6 @@
   "scripts": {
     "build": "kcd-scripts build --out-dir .",
     "lint": "kcd-scripts lint",
-    "setup": "npm install && npm run validate -s",
     "validate": "kcd-scripts validate"
   },
   "dependencies": {
@@ -42,7 +41,6 @@
   },
   "engines": {
     "node": ">=10.13.0",
-    "npm": ">=6",
-    "yarn": ">=1"
+    "npm": ">=6"
   }
 }
