@@ -33,7 +33,7 @@
     "@babel/runtime": "^7.12.1"
   },
   "devDependencies": {
-    "kcd-scripts": "^6.6.0",
+    "kcd-scripts": "^8.3.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   },
