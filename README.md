@@ -257,8 +257,8 @@ MIT
 <!-- prettier-ignore-start -->
 [npm]: https://npmjs.com
 [node]: https://nodejs.org
-[build-badge]: https://img.shields.io/travis/com/MichaelDeBOey/gatsby-plugin-instagram-embed.svg?style=flat-square
-[build]: https://travis-ci.com/MichaelDeBoey/gatsby-plugin-instagram-embed
+[build-badge]: https://img.shields.io/github/workflow/status/MichaelDeBoey/gatsby-plugin-instagram-embed/validate?logo=github&style=flat-square
+[build]: https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed/actions?query=workflow%3Avalidate
 [coverage-badge]: https://img.shields.io/codecov/c/github/MichaelDeBoey/gatsby-plugin-instagram-embed.svg?style=flat-square
 [coverage]: https://codecov.io/github/MichaelDeBoey/gatsby-plugin-instagram-embed
 [version-badge]: https://img.shields.io/npm/v/gatsby-plugin-instagram-embed.svg?style=flat-square
