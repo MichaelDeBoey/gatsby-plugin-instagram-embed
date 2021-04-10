@@ -9,4 +9,5 @@ package-lock.json
 yarn.lock
 
 /gatsby-browser.js
+/gatsby-node.js
 /gatsby-ssr.js

@@ -21,18 +21,22 @@
   "homepage": "https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed#readme",
   "files": [
     "gatsby-browser.js",
+    "gatsby-node.js",
     "gatsby-ssr.js",
     "index.js"
   ],
   "scripts": {
     "build": "kcd-scripts build --out-dir .",
     "lint": "kcd-scripts lint",
+    "test": "kcd-scripts test",
+    "test:update": "npm test -- --updateSnapshot --coverage",
     "validate": "kcd-scripts validate"
   },
   "dependencies": {
     "@babel/runtime": "^7.12.1"
   },
   "devDependencies": {
+    "gatsby-plugin-utils": "^0.9.0",
     "kcd-scripts": "^6.6.0",
     "react": "^16.14.0"
   },
