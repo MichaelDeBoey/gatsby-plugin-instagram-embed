@@ -33,12 +33,12 @@
     "validate": "kcd-scripts validate"
   },
   "dependencies": {
-    "@babel/runtime": "^7.12.1"
+    "@babel/runtime": "^7.13.10"
   },
   "devDependencies": {
     "gatsby-plugin-utils": "^0.9.0",
-    "kcd-scripts": "^6.6.0",
-    "react": "^16.14.0"
+    "kcd-scripts": "^8.3.0",
+    "react": "^17.0.2"
   },
   "peerDependencies": {
     "gatsby": "^2.20.0"
