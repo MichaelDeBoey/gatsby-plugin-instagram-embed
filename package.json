@@ -34,7 +34,8 @@
   },
   "devDependencies": {
     "kcd-scripts": "^6.6.0",
-    "react": "^16.14.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "peerDependencies": {
     "gatsby": "^2.20.0"
