@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "gatsby-plugin-utils": "^2.2.0",
-    "kcd-scripts": "^11.2.2",
+    "kcd-scripts": "^12.0.0",
     "react": "^17.0.2"
   },
   "peerDependencies": {
