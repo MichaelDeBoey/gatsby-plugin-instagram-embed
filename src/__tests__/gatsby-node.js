@@ -3,15 +3,16 @@ import { testPluginOptionsSchema } from 'gatsby-plugin-utils';
 import { pluginOptionsSchema } from '../gatsby-node';
 
 it(`should provide meaningful errors when fields are invalid`, async () => {
-  const expectedErrors = [`"optionA" is not allowed`];
+  const expectedWarnings = [`"optionA" is not allowed`];
 
-  const { errors, isValid } = await testPluginOptionsSchema(
+  const { hasWarnings, isValid, warnings } = await testPluginOptionsSchema(
     pluginOptionsSchema,
     { optionA: `This option shouldn't exist` }
   );
 
-  expect(errors).toEqual(expectedErrors);
-  expect(isValid).toBe(false);
+  expect(hasWarnings).toBe(true);
+  expect(isValid).toBe(true);
+  expect(warnings).toEqual(expectedWarnings);
 });
 
 it.each`
@@ -19,11 +20,12 @@ it.each`
   ${undefined}
   ${{}}
 `(`should validate the schema: $options`, async ({ options }) => {
-  const { errors, isValid } = await testPluginOptionsSchema(
+  const { hasWarnings, isValid, warnings } = await testPluginOptionsSchema(
     pluginOptionsSchema,
     options
   );
 
-  expect(errors).toEqual([]);
+  expect(hasWarnings).toBe(false);
   expect(isValid).toBe(true);
+  expect(warnings).toEqual([]);
 });
